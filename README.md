@@ -1,6 +1,12 @@
-# Getting Started with Create React App
+# Color Picker Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A clone of color picker websites such as Flat UI Colors and Material UI Colors.
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).\
+And utilize:
+- [react-copy-to-clipboard](https://github.com/nkbt/react-copy-to-clipboard)
+- [chroma.js](https://gka.github.io/chroma.js/)
+- [react-component/slider](https://github.com/react-component/slider)
 
 ## Available Scripts
 
